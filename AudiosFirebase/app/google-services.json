@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "389401727455",
+    "firebase_url": "https://encenderled-c8457-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "encenderled-c8457",
+    "storage_bucket": "encenderled-c8457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389401727455:android:a9655c97669c5b8dc7f46a",
+        "android_client_info": {
+          "package_name": "com.example.audiosfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389401727455-qtjhp6eb6s7bloaj1q99ag8ekgd19266.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPw1BOYZaWrYdmgDrNFFcoIEqDq39_wEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389401727455-qtjhp6eb6s7bloaj1q99ag8ekgd19266.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389401727455:android:476980bb075dd695c7f46a",
+        "android_client_info": {
+          "package_name": "com.example.encenderled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389401727455-qtjhp6eb6s7bloaj1q99ag8ekgd19266.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPw1BOYZaWrYdmgDrNFFcoIEqDq39_wEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389401727455-qtjhp6eb6s7bloaj1q99ag8ekgd19266.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389401727455:android:ed4dec1adf6e3a56c7f46a",
+        "android_client_info": {
+          "package_name": "juego.Leds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389401727455-qtjhp6eb6s7bloaj1q99ag8ekgd19266.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPw1BOYZaWrYdmgDrNFFcoIEqDq39_wEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389401727455-qtjhp6eb6s7bloaj1q99ag8ekgd19266.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
