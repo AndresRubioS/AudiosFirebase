@@ -9,15 +9,15 @@ text_speech = pyttsx3.init()
 
 config = {
 
-"apiKey": "AIzaSyARnyyAViCIbW_UcRgyMthZFrlzPmhaVuI",
+"apiKey": "0",
 
-"authDomain": "encenderled-c8457.firebaseapp.com",
+"authDomain": "0",
 
-"databaseURL": "https://encenderled-c8457-default-rtdb.europe-west1.firebasedatabase.app",
+"databaseURL": "0",
 
   
 
-"storageBucket": "encenderled-c8457.appspot.com"
+"storageBucket": "0"
 
 
 
